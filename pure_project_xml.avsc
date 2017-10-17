@@ -1,0 +1,1 @@
+{"type": "record", "name": "pure_project_xml", "fields": [{"name": "project_id", "type": "string"}, {"name": "xml", "type": "string"}]}
